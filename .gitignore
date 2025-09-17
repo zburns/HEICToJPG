@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.cr/personal/FavoritesList
+/.vs
+/bin/x86
+/obj
+/packages/Magick.NET.Core.14.8.2/lib/netstandard20
